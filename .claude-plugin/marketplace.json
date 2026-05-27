@@ -1,0 +1,14 @@
+{
+  "name": "acquia-pso-claude-plugins",
+  "owner": {
+    "name": "Acquia PS"
+  },
+  "description": "AI automation for Drupal projects with opiniated tools and workflows",
+  "plugins": [
+    {
+      "name": "drupal-dev-kit",
+      "source": "./plugins/drupal-dev-kit",
+      "description": "Skills and agents to drive development workflows"
+    }
+  ]
+}
