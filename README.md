@@ -6,7 +6,7 @@ agents, commands and skills for consistent AI-assisted development workflows.
 ## Install
 ```
 claude plugin marketplace add acquia-pso/claude-plugins
-claude plugin install drupal-dev-kit/acquiaps-claude-plugins
+claude plugin install drupal-dev-kit@acquia-pso-claude-plugins
 ```
 
 ## Plugins
